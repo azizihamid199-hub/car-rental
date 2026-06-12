@@ -18,6 +18,6 @@ A robust Command Line Interface (CLI) application built with Java to manage a ca
 
 ## 📦 How to Run the Project
 
-1. Clone this repository:
+1. Klone dieses Repository:
    ```bash
-[https://github.com/azizihamid199-hub/car-rental-java.git](https://github.com/azizihamid199-hub/car-rental-java.git)
+   git clone [https://github.com/DEIN-NUTZERNAME/car-rental-java.git](https://github.com/DEIN-NUTZERNAME/car-rental-java.git)
